@@ -1,16 +1,17 @@
 # Hi there, I'm Piotr 👋
-
+<!--
 Welcome to my GitHub profile! I'm a **Data Scientist** with a passion for **data analysis**, **machine learning**, and **programming**. I specialize in **Python** and **SAS**, and I enjoy turning complex datasets into actionable insights.
+-->
 
 ### 🛠️ Technologies & Tools
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/PiotrDS/PiotrDS/blob/main/images/sas_icon.svg" />
+<img align="left" alt="SAS" width="30px" style="padding-right:10px;" src="https://github.com/PiotrDS/PiotrDS/blob/main/images/sas_icon.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
+<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
+<!--
 ### 🚀 Projects
 Here are some highlights of the projects I'm working on:
 
@@ -29,6 +30,8 @@ Currently, I'm diving deeper into:
 ### 📫 How to Reach Me
 - LinkedIn: [Your LinkedIn Profile](link-to-profile)
 - Email: your.email@example.com
+
+-->
 
 ### 📊 GitHub Stats
 ![Piotr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
