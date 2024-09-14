@@ -1,48 +1,32 @@
-# Hi there, I'm Piotr 👋
-<!--
-Welcome to my GitHub profile! I'm a **Data Scientist** with a passion for **data analysis**, **machine learning**, and **programming**. I specialize in **Python** and **SAS**, and I enjoy turning complex datasets into actionable insights.
--->
+# Hi there👋
+### 👨🏻‍💻 &nbsp;About Me
 
-### 🛠️ Technologies & Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+- &nbsp; I'm an aspiring data scientist currently pursuing a Mathematics and Data Analysis degree at Warsaw University of Technology.
+- &nbsp;I'm on track for learning more about Artificial Intelligence, Natural Language Processing, and Computer Vision.
+- &nbsp;In my free time, I play football, go running and read books.
+
+
+## 🛠️ Technologies & Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="SAS" width="30px" style="padding-right:10px;" src="https://github.com/PiotrDS/PiotrDS/blob/main/images/sas_icon.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
 <!--
-### 🚀 Projects
-Here are some highlights of the projects I'm working on:
-
-- **[Project Name](link-to-repo)**: Brief description of the project, technology stack, and goals.
-- **[Project Name](link-to-repo)**: Another project showcasing my data science skills.
-- **[Project Name](link-to-repo)**: A project focused on Python and ML model development.
-
-Feel free to explore my repositories for more details on each project!
-
-### 🌱 What I'm Learning
-Currently, I'm diving deeper into:
-- Advanced Machine Learning techniques
-- SAS macro programming
-- Big Data tools like Apache Spark and Hadoop
-
-### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](link-to-profile)
-- Email: your.email@example.com
-
--->
-
-### 📊 GitHub Stats
-![Piotr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-Thank you for visiting my profile! Let's collaborate and build something amazing together. 😊
-
-
-<!--
 **PiotrDS/PiotrDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I'm a software developer and researcher by profession, and an incoming MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
+💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
+🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 
 Here are some ideas to get you started:
 
