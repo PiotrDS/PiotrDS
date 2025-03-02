@@ -1,19 +1,31 @@
 # Hi there👋
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me &nbsp;👨🏻‍💻
 
-- &nbsp; I'm an aspiring data scientist currently pursuing a Mathematics and Data Analysis degree at Warsaw University of Technology.
-- &nbsp;I'm on track for learning more about Artificial Intelligence, Natural Language Processing, and Computer Vision.
-- &nbsp;In my free time, I play football, go running and read books.
+ I am a third-year **Mathematics and Data Analysis** student at the **Faculty of Mathematics and Information Science** at the **Warsaw University of Technology**. I am passionate about **artificial intelligence**, particularly **machine learning**. I strive to combine my **mathematical knowledge** with **programming skills** and familiarity with the most popular techniques currently used in **data science**.
+
+My strengths:
+
+- :white_check_mark:  **Mathematical statistics** and **Probability theory**
+- :white_check_mark: **Machine learning**
+- :white_check_mark: **Linear algebra** and **Mathematical analysis** 
+- :white_check_mark: **Algorithms and data structures**
+  
+I am currently focusing on expanding my knowledge in:
+
+- :soon: **Deep neural network architectures**
+- :soon: **Quantum artificial intelligence**
 
 
 ## 🛠️ Technologies & Tools
 
 - <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> **Python** with:
-  - <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> **numpy**
+  - <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> **Numpy**
     
-  - <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> **pandas**
+  - <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> **Pandas**
+ 
+  - <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" /> **Matplotlib**
     
-  - <img align="left" alt="sklearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> **scikit-learn**
+  - <img align="left" alt="sklearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> **Scikit-learn**
 
   - <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> **PyTorch**
  
