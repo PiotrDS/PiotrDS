@@ -37,5 +37,7 @@ I am currently focusing on expanding my knowledge in:
 
 - <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **Git**
 
+- <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /> **Jira**
+
 <br />
 
