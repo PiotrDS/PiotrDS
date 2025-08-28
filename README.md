@@ -9,10 +9,11 @@ My strengths:
 - :white_check_mark: **Machine learning**
 - :white_check_mark: **Linear algebra** and **Mathematical analysis** 
 - :white_check_mark: **Algorithms and data structures**
+- :white_check_mark: **Deep neural network architectures**
   
 I am currently focusing on expanding my knowledge in:
 
-- :soon: **Deep neural network architectures**
+- :soon: **Agent AI Systems**
 - :soon: **Quantum artificial intelligence**
 
 
