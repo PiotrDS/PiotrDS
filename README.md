@@ -1,7 +1,7 @@
 # Hi there👋
 ### 👨🏻‍💻 &nbsp;About Me &nbsp;👨🏻‍💻
 
- I am a third-year **Mathematics and Data Analysis** student at the **Faculty of Mathematics and Information Science** at the **Warsaw University of Technology**. I am passionate about **artificial intelligence**, particularly **machine learning**. I strive to combine my **mathematical knowledge** with **programming skills** and familiarity with the most popular techniques currently used in **data science**.
+ I am a fourth-year **Data Science** student at the **Faculty of Mathematics and Information Science** at the **Warsaw University of Technology**. I am passionate about **artificial intelligence**, particularly **machine learning**. I strive to combine my **mathematical knowledge** with **programming skills** and familiarity with the most popular techniques currently used in **data science**.
 
 My strengths:
 
