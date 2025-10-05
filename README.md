@@ -15,7 +15,7 @@ My strengths:
 I am currently focusing on expanding my knowledge in:
 
 - :soon: **Agent AI Systems**
-- :soon: **C++ for High-Performance Computing**
+- :soon: **C for High-Performance Computing**
 
 
 ## 🛠️ Technologies & Tools
